@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    background-image: url(gazou/haikei.jpg);
+    background-size: cover;
+}
+.homuhomu{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 10%;
+    list-style: none;
+    background-color: #333333;
+    color: white;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
+.homuhomu ul{
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+.homuhomu a{
+    text-decoration: none;
+    margin-left: 15px;
+    padding: 10px 20px;
+    border-radius: 6px;
+    color: white;
+    
+}
+.homuhomu a:hover{
+    background-color: #555555;
+}
+.koko{
+    height: 550px;
+    padding-top: 5%;
+    box-sizing: border-box;
+    
+}
+.jikosyoukai img{
+    width: 450px;
+    height: auto;
+    float: right;
+    margin-right: 50px;
+    box-sizing: border-box;
+}
+.wataru{
+    margin-top: 155px;
+    padding-bottom: 50px;
+    background-color: rgb(70, 71, 71);
+    color: aliceblue;
+}
+.sansan{
+    margin-left: 20%;
+    margin-right: 45%;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    background-color: beige;
+    box-sizing: border-box;
+    border-radius: 10%;
+    text-align: center;
+}
+.tabemono{
+    background-color: antiquewhite;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 8%;
+    padding-bottom: 10%;
+    box-sizing: border-box;
+    text-align: center;
+}
+.tabemono img{
+    width: 700px;
+    height: auto;
+}
+.gam{
+    background-color: rgb(133, 234, 181);
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 8%;
+    padding-bottom: 10%;
+    box-sizing: border-box;
+    text-align: center;
+}
+.gam img{
+    width: 700px;
+    height: auto;
+}
